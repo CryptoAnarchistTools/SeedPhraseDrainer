@@ -29,5 +29,5 @@ This is your base—or you can "borrow" one. 😏😂
 
 ⚠️ Use wisely. ⚠️
 
-🔗 💻 Code: GitHub/CryptoAnarchisty
-🔗 🛒 Buy my services in the description.
+🔗 💻 Code: https://github.com/CryptoAnarchistTools/SeedPhraseDrainer
+🔗 🛒 TELEGRAM COMMUNITY: https://t.me/CryptoAnarchistTool/
